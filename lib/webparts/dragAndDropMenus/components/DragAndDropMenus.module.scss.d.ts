@@ -1,0 +1,25 @@
+declare const styles: {
+    dragAndDropMenus: string;
+    container: string;
+    row: string;
+    column: string;
+    'ms-Grid': string;
+    title: string;
+    subTitle: string;
+    description: string;
+    button: string;
+    label: string;
+    accordionHeadingButton: string;
+    adminContainer: string;
+    adminSection: string;
+    adminLogoContent: string;
+    dragDropMenu: string;
+    dragMenuContainer: string;
+    iconTitle: string;
+    addMenuIcon: string;
+    btnEdit: string;
+    btnDelete: string;
+    panelButtons: string;
+    errorColor: string;
+};
+export default styles;

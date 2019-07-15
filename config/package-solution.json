@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dragdrop-menus-client-side-solution",
+    "id": "74f69495-37e2-4760-9289-fe55381cc2ab",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/dragdrop-menus.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "drag-and-drop-menus-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/dragAndDropMenus/DragAndDropMenusWebPart.js",
+          "manifest": "./src/webparts/dragAndDropMenus/DragAndDropMenusWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DragAndDropMenusWebPartStrings": "lib/webparts/dragAndDropMenus/loc/{locale}.js"
+  }
+}
